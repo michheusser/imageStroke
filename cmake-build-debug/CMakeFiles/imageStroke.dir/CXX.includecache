@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michelsmacbookpro/Desktop/Projects/imageStroke/main.cpp
+iostream
+-
+typeinfo
+-
+cmath
+-
+
